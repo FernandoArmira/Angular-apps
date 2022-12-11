@@ -1,0 +1,50 @@
+[
+    {
+        "Movie": "The Dark Knight",
+        "Category": "Action",
+        "Director": "Christopher Nolan",
+        "Rating": 9
+    },
+    {
+        "Movie": "The Maze Runner",
+        "Category": "Sci-Fi",
+        "Director": "Wes Ball",
+        "Rating": 6.5
+    },
+    {
+        "Movie": "The Hobbit",
+        "Category": "Action",
+        "Director": "Peter Jackson",
+        "Rating": 8
+    },
+    {
+        "Movie": "Harry Potter",
+        "Category": "Fantasy",
+        "Director": "J. K. Rowling",
+        "Rating": 7.5
+    },
+    {
+        "Movie": "Ford v Ferrari",
+        "Category": "Drama",
+        "Director": "James Mangold",
+        "Rating": 8
+    },
+    {
+        "Movie": "Shawshank Redemption",
+        "Category": "Drama",
+        "Director": "Frank Darabont",
+        "Rating": 9.3
+    },
+    {
+        "Movie": "Escape From Alcatraz",
+        "Category": "Thriller",
+        "Director": "Jerry Fielding",
+        "Rating": 7.6
+    },
+    {
+        "Movie": "The Way Back",
+        "Category": "Adventure",
+        "Director": "Peter Weir",
+        "Rating": 7.3
+    }
+]
